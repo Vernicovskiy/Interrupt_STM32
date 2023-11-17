@@ -1,0 +1,10 @@
+D:/Nero/EXTI/Timer_PWM_CMSIS/CMSIS/inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+D:/Nero/EXTI/Timer_PWM_CMSIS/CMSIS/inc/core_cm4.h:1725:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+D:/Nero/EXTI/Timer_PWM_CMSIS/CMSIS/inc/core_cm4.h:1817:22:__NVIC_SetPriority	16	static
+../Src/main.c:7:7:SystemClock_Config	4	static
+../Src/main.c:34:7:TIM1_PWM_Init	4	static
+../Src/main.c:57:7:tim10_init	8	static
+../Src/main.c:67:7:exti_init	8	static
+../Src/main.c:82:7:TIM1_UP_TIM10_IRQHandler	8	static
+../Src/main.c:92:7:EXTI15_10_IRQHandler	4	static
+../Src/main.c:100:6:main	8	static
