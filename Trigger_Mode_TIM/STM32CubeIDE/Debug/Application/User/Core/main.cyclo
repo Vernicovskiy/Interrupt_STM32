@@ -1,0 +1,7 @@
+D:/Nero/STM32_TIM/Trigger_Mode_TIM/Core/Src/main.c:69:6:HAL_TIM_PeriodElapsedCallback	2
+D:/Nero/STM32_TIM/Trigger_Mode_TIM/Core/Src/main.c:86:5:main	1
+D:/Nero/STM32_TIM/Trigger_Mode_TIM/Core/Src/main.c:138:6:SystemClock_Config	3
+D:/Nero/STM32_TIM/Trigger_Mode_TIM/Core/Src/main.c:186:13:MX_TIM1_Init	5
+D:/Nero/STM32_TIM/Trigger_Mode_TIM/Core/Src/main.c:236:13:MX_TIM2_Init	5
+D:/Nero/STM32_TIM/Trigger_Mode_TIM/Core/Src/main.c:291:13:MX_GPIO_Init	1
+D:/Nero/STM32_TIM/Trigger_Mode_TIM/Core/Src/main.c:320:6:Error_Handler	1
